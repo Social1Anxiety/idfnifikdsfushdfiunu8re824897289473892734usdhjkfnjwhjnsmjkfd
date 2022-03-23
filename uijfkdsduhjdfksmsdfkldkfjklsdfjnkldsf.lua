@@ -126,7 +126,7 @@ N.TextSize = 14.000
 UICorner_2.Parent = N
 
 Circle.Name = "Circle"
-Circle.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.usure.N.RippleEffect
+Circle.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.usure.N.RippleEffect
 Circle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle.BackgroundTransparency = 1.000
 Circle.ZIndex = 10
@@ -147,7 +147,7 @@ Y.TextSize = 14.000
 UICorner_3.Parent = Y
 
 Circle_2.Name = "Circle"
-Circle_2.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.usure.Y.RippleEffect
+Circle_2.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.usure.Y.RippleEffect
 Circle_2.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle_2.BackgroundTransparency = 1.000
 Circle_2.ZIndex = 10
@@ -297,7 +297,7 @@ UNI.TextSize = 14.000
 UICorner_5.Parent = UNI
 
 Circle_3.Name = "Circle"
-Circle_3.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.Topbar.Pages.Main.Buttons.UNI.RippleEffect
+Circle_3.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.Topbar.Pages.Main.Buttons.UNI.RippleEffect
 Circle_3.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle_3.BackgroundTransparency = 1.000
 Circle_3.ZIndex = 10
@@ -318,7 +318,7 @@ SCR.TextSize = 14.000
 UICorner_6.Parent = SCR
 
 Circle_4.Name = "Circle"
-Circle_4.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.Topbar.Pages.Main.Buttons.SCR.RippleEffect
+Circle_4.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.Topbar.Pages.Main.Buttons.SCR.RippleEffect
 Circle_4.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle_4.BackgroundTransparency = 1.000
 Circle_4.ZIndex = 10
@@ -339,7 +339,7 @@ SC.TextSize = 14.000
 UICorner_7.Parent = SC
 
 Circle_5.Name = "Circle"
-Circle_5.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.Topbar.Pages.Main.Buttons.SC.RippleEffect
+Circle_5.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.Topbar.Pages.Main.Buttons.SC.RippleEffect
 Circle_5.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle_5.BackgroundTransparency = 1.000
 Circle_5.ZIndex = 10
@@ -525,7 +525,7 @@ Button1.TextStrokeColor3 = Color3.fromRGB(36, 36, 36)
 UICorner_12.Parent = Button1
 
 Circle_6.Name = "Circle"
-Circle_6.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.Topbar.Pages.SC.SettingFrame.Buttons["Button1"].RippleEffect
+Circle_6.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.Topbar.Pages.SC.SettingFrame.Buttons["Button1"].RippleEffect
 Circle_6.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle_6.BackgroundTransparency = 1.000
 Circle_6.ZIndex = 10
@@ -562,7 +562,7 @@ Label_2.TextSize = 14.000
 Label_2.TextWrapped = true
 
 Circle_7.Name = "Circle"
-Circle_7.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.Topbar.Pages.SC.SettingFrame.Keybinds["Bind1"].RippleEffect
+Circle_7.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.Topbar.Pages.SC.SettingFrame.Keybinds["Bind1"].RippleEffect
 Circle_7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle_7.BackgroundTransparency = 1.000
 Circle_7.ZIndex = 10
@@ -591,7 +591,7 @@ X.TextColor3 = Color3.fromRGB(0, 255, 17)
 X.TextSize = 14.000
 
 Circle_8.Name = "Circle"
-Circle_8.Parent = game.Players.LocalPlayer.PlayerGUI.Xeno.Topbar.X.RippleEffect
+Circle_8.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.Topbar.X.RippleEffect
 Circle_8.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 Circle_8.BackgroundTransparency = 1.000
 Circle_8.ZIndex = 10
