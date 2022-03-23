@@ -125,6 +125,8 @@ N.TextSize = 14.000
 
 UICorner_2.Parent = N
 
+wait(0.1)
+
 Circle.Name = "Circle"
 Circle.Parent = game.Players.LocalPlayer.PlayerGui.Xeno.usure.N.RippleEffect
 Circle.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
