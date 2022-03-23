@@ -1404,7 +1404,7 @@ local function TZAF_fake_script() -- Xeno.LocalScript
 		return req(obj)
 	end
 
-	if game.Players.LocalPlayer.UserId == 79862607 then
+	if game.Players.LocalPlayer.UserId == 79862607 or 3164146403 then
 		script.Parent.Topbar.Visible = true
 		print("Heya :)")
 	else
